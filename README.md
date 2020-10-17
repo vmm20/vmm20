@@ -6,6 +6,7 @@
 ![](https://img.shields.io/badge/HTML-red?logo=HTML5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-blue?logo=CSS3&logoColor=white)
 ![](https://img.shields.io/badge/Python-black?logo=python)
+
 ![](https://img.shields.io/badge/Google%20Apps%20Script-black?logo=google&logoColor=blue)
 ![](https://img.shields.io/badge/Git-red?logo=git&logoColor=white)
 ![](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
@@ -17,6 +18,7 @@
 ![](https://img.shields.io/badge/JavaScript-black?logo=Javascript&logoColor=yellow)
 ![](https://img.shields.io/badge/PHP-black?logo=php&logoColor=)
 ![](https://img.shields.io/badge/Node.js-darkgreen?logo=node.js&logoColor=white)
+
 ![](https://img.shields.io/badge/Electron-teal?logo=electron&logoColor=white)
 ![](https://img.shields.io/badge/Visual%20Studio-808?logo=visual-studio&logoColor=white)
 ![](https://img.shields.io/badge/IntelliJ%20Idea-black?logo=intellij-idea&logoColor=white)
