@@ -42,13 +42,15 @@
 ![](https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=white)
 ![](https://img.shields.io/badge/Inkscape-black?logo=inkscape&logoColor=white)
 ![](https://img.shields.io/badge/Audacity-00c?logo=audacity&logoColor=white)
+![](https://img.shields.io/badge/VLC-FF8800?logo=vlc-media-player&logoColor=white)
 ![](https://img.shields.io/badge/Brave-black?logo=brave&logoColor=orange)
 ![](https://img.shields.io/badge/Firefox-FF7139?logo=firefox&logoColor=white)
 ![](https://img.shields.io/badge/ProtonMail-9999ff?logo=protonmail&logoColor=white)
 ![](https://img.shields.io/badge/DuckDuckGo-white?logo=duckduckgo&logoColor=DE5833)
 ![](https://img.shields.io/badge/Signal-18E?logo=signal&logoColor=white)
 ![](https://img.shields.io/badge/Chocolatey-black?logo=chocolatey&logoColor=80B5E3)
-![](https://img.shields.io/badge/Notepad++-black?logo=notepad%2B%2B&logoColor=90E59A)
+![](https://img.shields.io/badge/Notepad++-90E59A?logo=notepad%2B%2B&logoColor=black)
+![](https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white)
 
 
 ## Operating Systems
