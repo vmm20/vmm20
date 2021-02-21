@@ -21,30 +21,18 @@
 
 ![](https://img.shields.io/badge/Electron-teal?logo=electron&logoColor=white)
 ![](https://img.shields.io/badge/Visual%20Studio-808?logo=visual-studio&logoColor=white)
-![](https://img.shields.io/badge/IntelliJ%20Idea-black?logo=intellij-idea&logoColor=white)
 ![](https://img.shields.io/badge/Android%20Studio-black?logo=android-studio&logoColor=3DDC84)
 ![](https://img.shields.io/badge/Google%20Cloud%20Platform-blue?logo=google-cloud&logoColor=white)
 
-### Want to Learn
-![](https://img.shields.io/badge/React-blue?logo=react&logoColor=white)
-![](https://img.shields.io/badge/C%23-purple?logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/Go-blue?logo=go&logoColor=white)
-![](https://img.shields.io/badge/Ruby-c00?logo=ruby&logoColor=white)
-
-![](https://img.shields.io/badge/Amazon%20Web%20Services-black?logo=amazon-aws&logoColor=f90)
-![](https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white)
-
 ---
 
-## Other Programs and Applications
+## Favorite Programs and Applications
 
 ![](https://img.shields.io/badge/Blender-orange?logo=blender&logoColor=white)
 ![](https://img.shields.io/badge/GIMP-5C5543?logo=gimp&logoColor=white)
 ![](https://img.shields.io/badge/Inkscape-black?logo=inkscape&logoColor=white)
 ![](https://img.shields.io/badge/Audacity-00c?logo=audacity&logoColor=white)
 ![](https://img.shields.io/badge/VLC-FF8800?logo=vlc-media-player&logoColor=white)
-![](https://img.shields.io/badge/Brave-black?logo=brave&logoColor=orange)
-![](https://img.shields.io/badge/Firefox-FF7139?logo=firefox&logoColor=white)
 ![](https://img.shields.io/badge/ProtonMail-9999ff?logo=protonmail&logoColor=white)
 ![](https://img.shields.io/badge/DuckDuckGo-white?logo=duckduckgo&logoColor=DE5833)
 ![](https://img.shields.io/badge/Signal-18E?logo=signal&logoColor=white)
